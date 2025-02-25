@@ -1,0 +1,102 @@
+body {
+    background: radial-gradient(#000000, #333333);
+}
+
+
+footer {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100px; /* Ajuste conforme necessário */
+  }
+  
+  footer img {
+    width: 180px; /* Ajuste conforme necessário */
+    height: auto;
+    margin-top: auto;
+  }
+  
+/* Centraliza o botão na tela */
+.container1 {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Ocupa a tela inteira */
+    margin-top: -15%;
+  }
+  
+  /* Estiliza o botão */
+  .botao1 {
+    display: inline-block;
+    padding: 15px 30px;
+    background: radial-gradient(#007bff, #6bb2ff); /*gradiente*/
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 8px; /* Cantos arredondados */
+    transition: 0.3s;
+  }
+  
+  .botao1:hover {
+    background: radial-gradient(circle, #1d0ea3, #4580ff);
+  }
+
+  /* Centraliza o botão na tela */
+.container2 {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Ocupa a tela inteira */
+    margin-top: -40%;
+  }
+  
+  /* Estiliza o botão */
+  .botao2 {
+    display: inline-block;
+    padding: 15px 30px;
+    background: radial-gradient( #8fff98, #38f51f); /* gradiente */
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 8px; /* Cantos arredondados */
+    transition: 0.3s;
+  }
+  
+  .botao2:hover {
+    background: radial-gradient(circle, #1abd3d, #2b8116);
+  }
+
+  /* Centraliza o botão na tela */
+.container3 {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Ocupa a tela inteira */
+    margin-top: -40%;
+  }
+  
+  /* Estiliza o botão */
+  .botao3 {
+    display: inline-block;
+    padding: 15px 30px;
+    background: radial-gradient(circle, #aa009c, #0017eb);
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 8px;
+    transition: 0.3s;
+  }
+  
+  .botao3:hover {
+    background: radial-gradient(circle, #6000df, #001aff);
+  }
+  
+  h5 {
+    margin-left: 586px;
+    margin-top: -18%;
+    color: #ffffff;
+  }
+ 
+
+  
+  
